@@ -1,5 +1,6 @@
-# ESP32 Microcontroller Application
-## Compute Pi on Happy Pi Day!
+# Compute Pi on Happy Pi Day!
+
+Using ESP32 Microcontroller
 
 ## Build the Application
 
