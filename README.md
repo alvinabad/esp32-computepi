@@ -1,6 +1,6 @@
 # Compute Pi on Happy Pi Day!
 
-Using ESP32 Microcontroller
+Using ESP32 Microcontroller and ssd1306 128x64 i2c OLED
 
 ## Build the Application
 
