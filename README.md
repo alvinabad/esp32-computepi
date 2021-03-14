@@ -5,7 +5,7 @@ Using ESP32 Microcontroller and ssd1306 128x64 i2c OLED
 ## Build the Application
 
 ```shell
-make compile
+make clean compile
 ```
 
 ## Upload Application to Microcontroller
